@@ -1,3 +1,3 @@
-# GDG-multimodal-sentiment-analysis
+# Fake Tweet detection 
 
-My personal repo for the winter project of GDG multimodal sentiment analysis
+This was done as an assignment for the multimodal sentiment analysis project by GDG IIT Kanpur.
